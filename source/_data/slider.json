@@ -1,0 +1,25 @@
+[{
+    "image": "images/angled-and-rugged-desk.jpeg",
+    "align": "right",
+    "title": "Deals",
+    "subtitle": "",
+    "link": "/"
+}, {
+    "image": "images/speakers.jpeg",
+    "align": "right",
+    "title": "Tunes",
+    "subtitle": "",
+    "link": "/"
+}, {
+    "image": "images/goat-photo.jpeg",
+    "align": "right",
+    "title": "Goats",
+    "subtitle": "",
+    "link": "/"
+},  {
+    "image": "https://source.unsplash.com/category/technology/2560x1080/weekly",
+    "align": "center",
+    "title": "Kids",
+    "subtitle": "",
+    "link": "/"
+    }]

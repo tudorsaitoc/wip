@@ -1,0 +1,37 @@
+{
+    "avatar": "https://img.stackshare.io/stack/18595/IDtofqNx.png",
+    "name": "tudr",
+	"tag": "Learning/Business/Technology",
+    "desc": "DESCRIPTION PLACEHOLDER",
+    "skills": {
+        "Sales": 9,
+        "Management": 7,
+		"Marketing": 6,
+		"Strategy": 8,
+		"Training": 7,
+		"Coding": 4,
+
+		"invisible-split-line-1": -1,
+		
+		"Fencing": 10
+    },
+    "projects": [{
+		"name": "PROJECT NAME PLACEHOLDER",
+		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+		"tags": ["2016", "TAG"],
+		"description": "DESCRIPTION PLACEHOLDER",
+		"link_text": "LINK PLACEHOLDER",
+		"link": "https://bah.nyc"
+	}, {
+		"name": "PROJECT NAME PLACEHOLDER",
+		"image": "https://d13yacurqjgara.cloudfront.net/users/4094/screenshots/2578885/time-lords-drib_1x.jpg",
+		"description": "DESCRIPTION PLACEHOLDER",
+		"tags": ["Github", "BAH"],
+		"link_text": "Github",
+		"link": "https://github.com/"
+	}],
+	"reward": [
+	    "http://raytaylorlin-blog.qiniudn.com/image/about/weixin_reward.png",
+		"http://raytaylorlin-blog.qiniudn.com/image/about/zhifubao_reward.png"
+	]
+}

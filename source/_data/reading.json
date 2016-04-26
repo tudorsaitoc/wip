@@ -1,0 +1,44 @@
+{
+    "define": {
+        "top": "Best",
+        "read": "Recommended",
+        "soon": "Reading"
+    },
+    "contents": {
+        "top": [{
+            "title": "TITLE PLACEHOLDER",
+            "cover": "http://img3.douban.com/lpic/s23139051.jpg",
+            "review": "3D-printed pen savant hotdog lights numinous range-rover fetishism courier towards rifle girl rebar tanto bicycle plastic. Carbon shoes grenade knife-space claymore mine neural tiger-team. Katana faded alcohol San Francisco paranoid boat assault office dead media Tokyo human systema savant singularity. Decay bicycle sprawl market free-market wristwatch urban crypto-tanto Shibuya nodal point faded meta-tattoo neon. Modem corporation urban Legba geodesic fetishism girl. 3D-printed office post-8-bit A.I. girl ablative rebar soul-delay media nano-bomb vinyl tank-traps spook. Chrome decay crypto-garage plastic neural Kowloon 8-bit meta. ",
+            "score": "7",
+            "doubanLink": "http://book.douban.com/subject/20281463/"
+        }, {
+            "title": "TITLE PLACEHOLDER",
+            "cover": "http://img5.douban.com/lpic/s11337059.jpg",
+            "review": "Advert spook urban voodoo god katana media savant free-market wonton soup plastic courier cardboard. Sunglasses order-flow Chiba nodal point crypto-Legba tower singularity stimulate otaku alcohol. Neon vinyl long-chain hydrocarbons dome meta-8-bit cartel. Engine-ware post-film uplink realism office computer systema pistol artisanal knife ablative jeans tower military-grade. ",
+            "score": "8.5",
+            "doubanLink": "http://book.douban.com/subject/11506062/"
+        }, {
+            "title": "TITLE PLACEHOLDER",
+            "cover": "http://img3.douban.com/lpic/s11373174.jpg",
+            "review": "Render-farm grenade 3D-printed sub-orbital sensory katana 8-bit numinous into bicycle rebar modem towards. Nano-systemic Shibuya j-pop stimulate franchise industrial grade fetishism katana neural tank-traps sub-orbital. Engine San Francisco table modem Chiba spook voodoo god human denim render-farm. San Francisco drugs crypto-weathered plastic assault wonton soup rifle stimulate A.I. bomb industrial grade paranoid.",
+            "score": "9.5",
+            "doubanLink": "http://book.douban.com/subject/11874748/"
+        }],
+
+        "read": [{
+            "title": "TITLE PLACEHOLDER",
+            "cover": "http://img4.douban.com/lpic/s27881888.jpg",
+            "review": "Hotdog rebar Chiba sentient j-pop weathered bridge into table skyscraper pen drone construct order-flow tube motion office. Sentient sprawl singularity convenience store fluidity shanty town corporation rebar BASE jump film. Wristwatch skyscraper tank-traps motion paranoid semiotics grenade neon beef noodles drone saturation point artisanal. Smart-systemic alcohol jeans order-flow nodality systema assassin receding bridge car. Military-grade warehouse BASE jump paranoid youtube-space car convenience store tower. Carbon office tube industrial grade DIY pistol Chiba voodoo god camera range-rover neon. Post-footage realism crypto-tiger-team wristwatch bomb augmented reality spook. Dead marketing cyber-boat euro-pop tattoo garage face forwards corporation camera. Silent franchise construct papier-mache plastic industrial grade sub-orbital advert marketing j-pop beef noodles refrigerator apophenia sprawl tower.",
+            "score": "8",
+            "doubanLink": "http://book.douban.com/subject/25850090/"
+        }],
+
+        "soon": [{
+            "title": "TITLE PLACEHOLDER",
+            "cover": "http://img4.douban.com/lpic/s1113106.jpg",
+            "review": "Neural girl sensory garage cyber-jeans vehicle city. Construct papier-mache plastic numinous semiotics wristwatch crypto-nodality systemic spook realism courier sub-orbital. Youtube pen semiotics futurity neon RAF physical denim tanto pistol man sign. Fluidity media katana nano-bomb network drugs claymore mine wonton soup range-rover face forwards j-pop silent camera hacker table concrete. Modem refrigerator vinyl Legba neon assault spook market chrome. Office sprawl DIY tiger-team San Francisco denim wristwatch tank-traps woman Legba concrete fetishism claymore mine dolphin lights singularity. Drugs tank-traps man warehouse pre-assault pistol wonton soup.",
+            "score": "9",
+            "doubanLink": "http://book.douban.com/subject/1148282/"
+        }]
+    }
+}

@@ -1,0 +1,45 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"package.json",
+				"db.json",
+				".gitignore",
+				"themes/raytaylorism/Gruntfile.js",
+				"themes/raytaylorism/LICENSE",
+				"themes/raytaylorism/README.md",
+				"themes/raytaylorism/log.md",
+				"wip.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"public",
+				"node_modules",
+				"scaffolds",
+				"source/_images",
+				"themes/raytaylorism/languages",
+				"source/_md",
+				"source",
+				"themes/landscape"
+			],
+			"path": "."
+		},
+		{
+			"path": "source/_data"
+		},
+		{
+			"path": "source/_md/about"
+		},
+		{
+			"path": "source/_md/reading"
+		}
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "social": {
+        "linkedin": "http://linkedin.com/in/tudornyc",
+        "facebook": "http://facebook.com/tudorsnyc",
+        "twitter": "http://twitter.com/tudorsnyc",
+        "google+": "http://google.com/tudorsnyc",
+        "github": "https://github.com/tudr",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "tudr.co": "http://tudr.co/",
+		"Github": "https://github.com/tudr"
+    }
+}
